@@ -1,4 +1,4 @@
-# AVXHWIDSPOOFER
+# Instructions 🏗
 AVX HWID Spoofer
 
 Open .bat file
