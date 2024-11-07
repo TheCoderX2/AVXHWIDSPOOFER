@@ -1,7 +1,7 @@
 # Instructions 🏗
 AVX HWID Spoofer
 
-- Open .bat file
+- Open .bat file as Administrator
 - Input AVX Key
 - Make sure that you have the AVX Loader, Geforce NOW, and C++ Redistributables installed.
 - Now you should be able to use AVX Fortnite Cheat on a different HWID
